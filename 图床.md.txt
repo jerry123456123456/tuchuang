@@ -1,0 +1,2 @@
+##config
+./configure --with-cc-opt="-Wno-error" --prefix=/usr/local/nginx --with-http_stub_status_module --with-stream --with-pcre=/home/jerry/snap/nginx/pcre-8.45 --with-http_ssl_module --with-http_realip_module --with-http_v2_module --with-openssl=/home/jerry/snap/nginx/openssl-1.1.1s  --add-module=/home/jerry/snap/nginx/fastdfs-nginx-module/src --add-module=/home/jerry/snap/nginx/nginx_upload_module-2.2.0
